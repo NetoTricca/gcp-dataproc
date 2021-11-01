@@ -1,3 +1,5 @@
+![image](https://user-images.githubusercontent.com/68438464/139738297-80b506c3-1553-4ba5-8d75-c6e63f1b3729.png)
+
 # gcp-dataproc
 Desafio DIO GCP DATAPROC HADOOP
 
